@@ -1,6 +1,8 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE InstanceSigs #-}
 
+{- HLINT ignore -}
+
 module Language.Nano.Types where
 
 import           GHC.Exts( IsString(..) )

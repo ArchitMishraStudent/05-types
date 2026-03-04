@@ -1,5 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 
+{- HLINT ignore -}
+
 module Language.Nano.Parser (parseString, parseFile) where
 
 import Language.Nano.Types (Expr(..), Binop(..))

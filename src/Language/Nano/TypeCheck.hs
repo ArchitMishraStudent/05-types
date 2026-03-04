@@ -1,6 +1,8 @@
 {-# LANGUAGE FlexibleInstances, OverloadedStrings, BangPatterns #-}
 {-# LANGUAGE InstanceSigs #-}
 
+{- HLINT ignore -}
+
 module Language.Nano.TypeCheck where
 
 import Language.Nano.Types

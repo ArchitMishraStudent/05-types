@@ -1,5 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 
+{- HLINT ignore -}
+
 module Language.Nano.Eval
   ( execFile, execString, execExpr
   , eval, lookupId, prelude
